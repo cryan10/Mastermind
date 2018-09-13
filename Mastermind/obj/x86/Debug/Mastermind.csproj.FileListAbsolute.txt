@@ -1,0 +1,5 @@
+/Users/carrie/Projects/Mastermind/Mastermind/bin/Debug/Mastermind.exe
+/Users/carrie/Projects/Mastermind/Mastermind/bin/Debug/Mastermind.pdb
+/Users/carrie/Projects/Mastermind/Mastermind/obj/x86/Debug/Mastermind.csproj.CoreCompileInputs.cache
+/Users/carrie/Projects/Mastermind/Mastermind/obj/x86/Debug/Mastermind.exe
+/Users/carrie/Projects/Mastermind/Mastermind/obj/x86/Debug/Mastermind.pdb
